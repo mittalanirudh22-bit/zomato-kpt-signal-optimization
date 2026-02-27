@@ -1,4 +1,4 @@
-# Zomato KPT Signal Optimization 
+
 # 🚀 Zomato Kitchen Prep Time (KPT) Optimization  
 ### Signal Engineering & Intelligent Kitchen State Modeling
 
