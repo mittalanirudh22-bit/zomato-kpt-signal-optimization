@@ -48,4 +48,4 @@ python run_pipeline.py
 - XGBoost
 
 ## Conclusion
-Improving signal quality instead of just model complexity significantly improves KPT prediction accuracy and operational efficiency.
+
