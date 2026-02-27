@@ -1,0 +1,6 @@
+Baseline Avg Wait: 30.306
+Improved Avg Wait: 6.374902725219727
+Baseline Cancel Rate: 0.7124
+Improved Cancel Rate: 0.1084
+Baseline Idle Time: 0.0
+Improved Idle Time: 0.7323663830757141
